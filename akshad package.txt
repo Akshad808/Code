@@ -30,8 +30,7 @@ public class nestedtry {
 		}
         catch(ArrayIndexOutOfBoundsException e)
 		{
-        	System.out.println(""
-        			+ "Uncaught exception" );
+        	System.out.println( "Uncaught exception" );
 		}
 	}
 }
