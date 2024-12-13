@@ -1,4 +1,4 @@
-package akshad;
+
 import java.util.Scanner;
 import java.util.*;
 public class nestedtry {
